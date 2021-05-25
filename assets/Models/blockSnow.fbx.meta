@@ -1,0 +1,93 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "37e7fa17-d5e5-4c39-95da-64d9f8ea7593",
+  "files": [],
+  "subMetas": {
+    "6b1de": {
+      "importer": "gltf-mesh",
+      "uuid": "37e7fa17-d5e5-4c39-95da-64d9f8ea7593@6b1de",
+      "displayName": "",
+      "id": "6b1de",
+      "name": "blockSnow_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "37e7fa17-d5e5-4c39-95da-64d9f8ea7593@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dfa42": {
+      "importer": "gltf-material",
+      "uuid": "37e7fa17-d5e5-4c39-95da-64d9f8ea7593@dfa42",
+      "displayName": "",
+      "id": "dfa42",
+      "name": "snow.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "19fcf": {
+      "importer": "gltf-scene",
+      "uuid": "37e7fa17-d5e5-4c39-95da-64d9f8ea7593@19fcf",
+      "displayName": "",
+      "id": "19fcf",
+      "name": "blockSnow.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "37e7fa17-d5e5-4c39-95da-64d9f8ea7593@19fcf",
+    "assetFinder": {
+      "meshes": [
+        "37e7fa17-d5e5-4c39-95da-64d9f8ea7593@6b1de"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "37e7fa17-d5e5-4c39-95da-64d9f8ea7593@3577b",
+        "37e7fa17-d5e5-4c39-95da-64d9f8ea7593@dfa42"
+      ],
+      "scenes": [
+        "37e7fa17-d5e5-4c39-95da-64d9f8ea7593@19fcf"
+      ]
+    }
+  }
+}

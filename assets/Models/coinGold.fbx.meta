@@ -1,0 +1,93 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "83191e98-a2aa-4e4b-8261-bc78129b6cdd",
+  "files": [],
+  "subMetas": {
+    "05e3e": {
+      "importer": "gltf-mesh",
+      "uuid": "83191e98-a2aa-4e4b-8261-bc78129b6cdd@05e3e",
+      "displayName": "",
+      "id": "05e3e",
+      "name": "coinGold_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9dbcb": {
+      "importer": "gltf-material",
+      "uuid": "83191e98-a2aa-4e4b-8261-bc78129b6cdd@9dbcb",
+      "displayName": "",
+      "id": "9dbcb",
+      "name": "gold.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "83191e98-a2aa-4e4b-8261-bc78129b6cdd@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5ec8d": {
+      "importer": "gltf-scene",
+      "uuid": "83191e98-a2aa-4e4b-8261-bc78129b6cdd@5ec8d",
+      "displayName": "",
+      "id": "5ec8d",
+      "name": "coinGold.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "83191e98-a2aa-4e4b-8261-bc78129b6cdd@5ec8d",
+    "assetFinder": {
+      "meshes": [
+        "83191e98-a2aa-4e4b-8261-bc78129b6cdd@05e3e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "83191e98-a2aa-4e4b-8261-bc78129b6cdd@9dbcb",
+        "83191e98-a2aa-4e4b-8261-bc78129b6cdd@e4014"
+      ],
+      "scenes": [
+        "83191e98-a2aa-4e4b-8261-bc78129b6cdd@5ec8d"
+      ]
+    }
+  }
+}

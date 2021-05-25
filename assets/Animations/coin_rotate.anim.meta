@@ -1,0 +1,13 @@
+{
+  "ver": "1.0.11",
+  "importer": "animation-clip",
+  "imported": true,
+  "uuid": "5b4f8635-1de5-4c9e-8ecd-1d095092b445",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "name": "coin_rotate"
+  }
+}

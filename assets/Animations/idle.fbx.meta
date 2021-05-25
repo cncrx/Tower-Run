@@ -1,0 +1,115 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f48006de-7b93-478a-a5db-e0570c7bad91",
+  "files": [],
+  "subMetas": {
+    "49434": {
+      "importer": "gltf-animation",
+      "uuid": "f48006de-7b93-478a-a5db-e0570c7bad91@49434",
+      "displayName": "",
+      "id": "49434",
+      "name": "Root|Idle.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0416666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adecc": {
+      "importer": "gltf-animation",
+      "uuid": "f48006de-7b93-478a-a5db-e0570c7bad91@adecc",
+      "displayName": "",
+      "id": "adecc",
+      "name": "Root|0.Targeting Pose.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5f904": {
+      "importer": "gltf-scene",
+      "uuid": "f48006de-7b93-478a-a5db-e0570c7bad91@5f904",
+      "displayName": "",
+      "id": "5f904",
+      "name": "idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Root|0.Targeting Pose",
+        "duration": 0,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Root|0.Targeting Pose",
+            "from": 0,
+            "to": 0,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Root|Idle",
+        "duration": 1.0416666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Root|Idle",
+            "from": 0,
+            "to": 1.0416666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f48006de-7b93-478a-a5db-e0570c7bad91@5f904",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "f48006de-7b93-478a-a5db-e0570c7bad91@5f904"
+      ]
+    }
+  }
+}

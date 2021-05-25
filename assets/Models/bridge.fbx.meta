@@ -1,0 +1,93 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bda1a354-ca43-4e51-ac7e-d3422b151c76",
+  "files": [],
+  "subMetas": {
+    "11589": {
+      "importer": "gltf-mesh",
+      "uuid": "bda1a354-ca43-4e51-ac7e-d3422b151c76@11589",
+      "displayName": "",
+      "id": "11589",
+      "name": "bridge_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "bda1a354-ca43-4e51-ac7e-d3422b151c76@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "938e8": {
+      "importer": "gltf-material",
+      "uuid": "bda1a354-ca43-4e51-ac7e-d3422b151c76@938e8",
+      "displayName": "",
+      "id": "938e8",
+      "name": "woodDark.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8923": {
+      "importer": "gltf-scene",
+      "uuid": "bda1a354-ca43-4e51-ac7e-d3422b151c76@c8923",
+      "displayName": "",
+      "id": "c8923",
+      "name": "bridge.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "bda1a354-ca43-4e51-ac7e-d3422b151c76@c8923",
+    "assetFinder": {
+      "meshes": [
+        "bda1a354-ca43-4e51-ac7e-d3422b151c76@11589"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "bda1a354-ca43-4e51-ac7e-d3422b151c76@e4014",
+        "bda1a354-ca43-4e51-ac7e-d3422b151c76@938e8"
+      ],
+      "scenes": [
+        "bda1a354-ca43-4e51-ac7e-d3422b151c76@c8923"
+      ]
+    }
+  }
+}

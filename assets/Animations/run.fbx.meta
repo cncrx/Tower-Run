@@ -1,0 +1,115 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "aeb98837-dd9a-4dc5-9a1d-5185e93b7433",
+  "files": [],
+  "subMetas": {
+    "31163": {
+      "importer": "gltf-animation",
+      "uuid": "aeb98837-dd9a-4dc5-9a1d-5185e93b7433@31163",
+      "displayName": "",
+      "id": "31163",
+      "name": "Root|Run.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.625
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "adecc": {
+      "importer": "gltf-animation",
+      "uuid": "aeb98837-dd9a-4dc5-9a1d-5185e93b7433@adecc",
+      "displayName": "",
+      "id": "adecc",
+      "name": "Root|0.Targeting Pose.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1471e": {
+      "importer": "gltf-scene",
+      "uuid": "aeb98837-dd9a-4dc5-9a1d-5185e93b7433@1471e",
+      "displayName": "",
+      "id": "1471e",
+      "name": "run.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Root|0.Targeting Pose",
+        "duration": 0,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Root|0.Targeting Pose",
+            "from": 0,
+            "to": 0,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Root|Run",
+        "duration": 0.625,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Root|Run",
+            "from": 0,
+            "to": 0.625,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "aeb98837-dd9a-4dc5-9a1d-5185e93b7433@1471e",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "aeb98837-dd9a-4dc5-9a1d-5185e93b7433@1471e"
+      ]
+    }
+  }
+}

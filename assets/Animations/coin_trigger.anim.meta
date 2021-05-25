@@ -1,0 +1,13 @@
+{
+  "ver": "1.0.11",
+  "importer": "animation-clip",
+  "imported": true,
+  "uuid": "2dda5428-5199-49f6-9ace-997ed8db302d",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "name": "coin_trigger"
+  }
+}

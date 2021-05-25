@@ -1,0 +1,93 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fda783f7-5a86-417f-8de0-04de0d7afef6",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "fda783f7-5a86-417f-8de0-04de0d7afef6@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "57f8a": {
+      "importer": "gltf-mesh",
+      "uuid": "fda783f7-5a86-417f-8de0-04de0d7afef6@57f8a",
+      "displayName": "",
+      "id": "57f8a",
+      "name": "blockRounded_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "fda783f7-5a86-417f-8de0-04de0d7afef6@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "892e4": {
+      "importer": "gltf-scene",
+      "uuid": "fda783f7-5a86-417f-8de0-04de0d7afef6@892e4",
+      "displayName": "",
+      "id": "892e4",
+      "name": "blockRounded.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "fda783f7-5a86-417f-8de0-04de0d7afef6@892e4",
+    "assetFinder": {
+      "meshes": [
+        "fda783f7-5a86-417f-8de0-04de0d7afef6@57f8a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "fda783f7-5a86-417f-8de0-04de0d7afef6@53398",
+        "fda783f7-5a86-417f-8de0-04de0d7afef6@3577b"
+      ],
+      "scenes": [
+        "fda783f7-5a86-417f-8de0-04de0d7afef6@892e4"
+      ]
+    }
+  }
+}

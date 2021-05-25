@@ -1,0 +1,93 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "785adebe-c027-4571-af97-9347d8543c0d",
+  "files": [],
+  "subMetas": {
+    "25299": {
+      "importer": "gltf-scene",
+      "uuid": "785adebe-c027-4571-af97-9347d8543c0d@25299",
+      "displayName": "",
+      "id": "25299",
+      "name": "crate.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c704a": {
+      "importer": "gltf-mesh",
+      "uuid": "785adebe-c027-4571-af97-9347d8543c0d@c704a",
+      "displayName": "",
+      "id": "c704a",
+      "name": "crate_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "938e8": {
+      "importer": "gltf-material",
+      "uuid": "785adebe-c027-4571-af97-9347d8543c0d@938e8",
+      "displayName": "",
+      "id": "938e8",
+      "name": "woodDark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "785adebe-c027-4571-af97-9347d8543c0d@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "785adebe-c027-4571-af97-9347d8543c0d@25299",
+    "assetFinder": {
+      "meshes": [
+        "785adebe-c027-4571-af97-9347d8543c0d@c704a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "785adebe-c027-4571-af97-9347d8543c0d@938e8",
+        "785adebe-c027-4571-af97-9347d8543c0d@e4014"
+      ],
+      "scenes": [
+        "785adebe-c027-4571-af97-9347d8543c0d@25299"
+      ]
+    }
+  }
+}

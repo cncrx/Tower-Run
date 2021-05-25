@@ -1,0 +1,127 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7526adb8-b1ea-4dd2-9975-93094934426e",
+  "files": [],
+  "subMetas": {
+    "99038": {
+      "importer": "gltf-material",
+      "uuid": "7526adb8-b1ea-4dd2-9975-93094934426e@99038",
+      "displayName": "",
+      "id": "99038",
+      "name": "rock.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7c31": {
+      "importer": "gltf-mesh",
+      "uuid": "7526adb8-b1ea-4dd2-9975-93094934426e@a7c31",
+      "displayName": "",
+      "id": "a7c31",
+      "name": "barrel_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "7526adb8-b1ea-4dd2-9975-93094934426e@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "938e8": {
+      "importer": "gltf-material",
+      "uuid": "7526adb8-b1ea-4dd2-9975-93094934426e@938e8",
+      "displayName": "",
+      "id": "938e8",
+      "name": "woodDark.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "16ef1": {
+      "importer": "gltf-material",
+      "uuid": "7526adb8-b1ea-4dd2-9975-93094934426e@16ef1",
+      "displayName": "",
+      "id": "16ef1",
+      "name": "metal.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "67ae4": {
+      "importer": "gltf-scene",
+      "uuid": "7526adb8-b1ea-4dd2-9975-93094934426e@67ae4",
+      "displayName": "",
+      "id": "67ae4",
+      "name": "barrel.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "7526adb8-b1ea-4dd2-9975-93094934426e@67ae4",
+    "assetFinder": {
+      "meshes": [
+        "7526adb8-b1ea-4dd2-9975-93094934426e@a7c31"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7526adb8-b1ea-4dd2-9975-93094934426e@e4014",
+        "7526adb8-b1ea-4dd2-9975-93094934426e@99038",
+        "7526adb8-b1ea-4dd2-9975-93094934426e@938e8",
+        "7526adb8-b1ea-4dd2-9975-93094934426e@16ef1"
+      ],
+      "scenes": [
+        "7526adb8-b1ea-4dd2-9975-93094934426e@67ae4"
+      ]
+    }
+  }
+}

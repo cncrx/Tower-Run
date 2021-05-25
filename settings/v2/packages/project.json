@@ -1,0 +1,57 @@
+{
+  "__version__": "1.0.1",
+  "general": {
+    "designResolution": {
+      "width": 720,
+      "height": 1280,
+      "fitHeight": true
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "block"
+      },
+      {
+        "index": 2,
+        "name": "obstacle"
+      },
+      {
+        "index": 3,
+        "name": "floor"
+      },
+      {
+        "index": 4,
+        "name": "player"
+      },
+      {
+        "index": 5,
+        "name": "coin"
+      },
+      {
+        "index": 6,
+        "name": "check-point"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 126,
+      "2": 26,
+      "3": 22,
+      "4": 14,
+      "5": 2,
+      "6": 2
+    },
+    "defaultMaterial": {
+      "rollingFriction": 0.1,
+      "restitution": 0.1
+    }
+  },
+  "layer": [
+    {
+      "name": "canvas_19",
+      "value": 524288
+    }
+  ]
+}
