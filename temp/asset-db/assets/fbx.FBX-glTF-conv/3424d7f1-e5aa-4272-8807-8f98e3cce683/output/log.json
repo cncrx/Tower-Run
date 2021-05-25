@@ -1,0 +1,6 @@
+[
+  {
+    "level": 0,
+    "message": "The material mapping mode is not AllSame, even if it should be since we splited it previously."
+  }
+]

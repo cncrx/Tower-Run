@@ -1,0 +1,361 @@
+debug: Mon, 24 May 2021 14:19:21 GMT
+debug: Project: D:\Tower-Run\Tower-Run
+debug: Targets: editor,preview
+debug: Incremental file seems great.
+debug: Engine path: D:\CocosDashboard\resources\.editors\Creator\3.1.0\resources\resources\3d\engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Loading cache costs 30.1216010004282ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Loading cache costs 35.67839900031686ms.
+debug: Sync engine features: base,gfx-webgl,gfx-webgl2,3d,2d,ui,particle,physics-ammo,physics-2d-box2d,intersection-2d,primitive,profiler,particle-2d,audio,video,webview,tween,terrain,tiled-map,spine,dragon-bones
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 32.61939899995923ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 11
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:10 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:00:23 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:50:15 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:00:48 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Sun May 23 2021 22:06:43 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 22:18:59 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Detected change: file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts. Last mtime: Sun May 23 2021 22:55:43 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 21:54:25 GMT+0800 (GMT+08:00)
+debug: Inspect file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 1236.1208989992738ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:11 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:00:23 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/physics-ammo from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-ammo.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/wait-for-ammo-instantiation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/wait-for-ammo-instantiation.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-box2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-box2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:50:15 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:00:50 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Sun May 23 2021 22:06:43 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 22:18:59 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Detected change: file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts. Last mtime: Sun May 23 2021 22:55:43 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 21:54:25 GMT+0800 (GMT+08:00)
+debug: Inspect file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 606.8428000006825ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:48 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:04:31 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts.
+debug: Detected change: file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts. Last mtime: Mon May 24 2021 21:54:25 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 22:23:28 GMT+0800 (GMT+08:00)
+debug: Inspect file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 234.40159899927676ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:50 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:04:31 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts.
+debug: Detected change: file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts. Last mtime: Mon May 24 2021 21:54:25 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 22:23:28 GMT+0800 (GMT+08:00)
+debug: Inspect file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 278.16910000145435ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:04:31 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:05:19 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts.
+debug: Detected change: file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts. Last mtime: Mon May 24 2021 22:23:28 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 22:24:15 GMT+0800 (GMT+08:00)
+debug: Inspect file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 215.3948989994824ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:04:31 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:05:19 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts.
+debug: Detected change: file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts. Last mtime: Mon May 24 2021 22:23:28 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 22:24:15 GMT+0800 (GMT+08:00)
+debug: Inspect file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 340.0741009991616ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:05:19 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:07:37 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts.
+debug: Detected change: file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts. Last mtime: Sun May 23 2021 22:56:44 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 22:26:35 GMT+0800 (GMT+08:00)
+debug: Inspect file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 211.87939999997616ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:05:19 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:07:38 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts.
+debug: Detected change: file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts. Last mtime: Sun May 23 2021 22:56:44 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 22:26:35 GMT+0800 (GMT+08:00)
+debug: Inspect file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 274.40430000051856ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:07:37 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:09:31 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts.
+debug: Detected change: file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts. Last mtime: Mon May 24 2021 22:26:35 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 22:28:29 GMT+0800 (GMT+08:00)
+debug: Inspect file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 137.24880000017583ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:07:38 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:09:31 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts.
+debug: Detected change: file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts. Last mtime: Mon May 24 2021 22:26:35 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 22:28:29 GMT+0800 (GMT+08:00)
+debug: Inspect file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 230.56699999980628ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:09:31 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:13:11 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts.
+debug: Detected change: file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts. Last mtime: Mon May 24 2021 22:24:15 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 22:32:00 GMT+0800 (GMT+08:00)
+debug: Inspect file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts
+debug: Detected change: file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts. Last mtime: Mon May 24 2021 22:28:29 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 22:29:54 GMT+0800 (GMT+08:00)
+debug: Inspect file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 261.51899999938905ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:09:31 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:13:12 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts.
+debug: Detected change: file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts. Last mtime: Mon May 24 2021 22:24:15 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 22:32:00 GMT+0800 (GMT+08:00)
+debug: Inspect file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts
+debug: Detected change: file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts. Last mtime: Mon May 24 2021 22:28:29 GMT+0800 (GMT+08:00), Current mtime: Mon May 24 2021 22:29:54 GMT+0800 (GMT+08:00)
+debug: Inspect file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 337.4118000008166ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:13:11 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:13:12 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts.
+debug: Target(editor) ends with cost 39.88630000129342ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:13:12 GMT+0800 (GMT+08:00), Current mtime: Thu Jan 01 1970 08:13:12 GMT+0800 (GMT+08:00)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts.
+debug: Resolve file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts from cce:/internal/x/prerequisite-imports as file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts.
+debug: Target(preview) ends with cost 49.89230000041425ms.

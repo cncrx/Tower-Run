@@ -1,0 +1,125 @@
+{
+  "assets/Scripts/Coin.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "./Block": "assets/Scripts/Block.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "./GameManager": "assets/Scripts/GameManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Coin.js",
+    "mTimestamp": 1621384536137
+  },
+  "assets/Scripts/Block.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "./GameManager": "assets/Scripts/GameManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Block.js",
+    "mTimestamp": 1621384536250
+  },
+  "assets/Scripts/Score.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "./GameManager": "assets/Scripts/GameManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Score.js",
+    "mTimestamp": 1621384536483
+  },
+  "assets/Scripts/Player.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "./GameManager": "assets/Scripts/GameManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Player.js",
+    "mTimestamp": 1621384536538
+  },
+  "assets/Scripts/Progress.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Progress.js",
+    "mTimestamp": 1621384536589
+  },
+  "assets/Scripts/UIManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "./GameManager": "assets/Scripts/GameManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UIManager.js",
+    "mTimestamp": 1621384536726
+  },
+  "assets/Scripts/CheckPoint.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "./GameManager": "assets/Scripts/GameManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/CheckPoint.js",
+    "mTimestamp": 1621384536780
+  },
+  "assets/Scripts/PlayerCtrl.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "cce:/internal/code-quality/cr.mjs": "quick-pack:/cce/internal/code-quality/cr.js",
+      "./GameManager": "assets/Scripts/GameManager.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/PlayerCtrl.js",
+    "mTimestamp": 1621778824165
+  },
+  "assets/Scripts/UIModel.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UIModel.js",
+    "mTimestamp": 1621778824195
+  },
+  "quick-pack:/cce/internal/x/cc.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/x/cc.js",
+    "mTimestamp": 1621865987804,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/cc"
+  },
+  "quick-pack:/cce/internal/code-quality/cr.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/code-quality/cr.js",
+    "mTimestamp": 1621865988070
+  },
+  "assets/Scripts/GameManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/GameManager.js",
+    "mTimestamp": 1621866730581
+  },
+  "assets/Scripts/MenuUIManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/MenuUIManager.js",
+    "mTimestamp": 1621866730663
+  },
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {
+      "file:///D:/Tower-Run/Tower-Run/assets/Scripts/Block.ts": "assets/Scripts/Block.js",
+      "file:///D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.ts": "assets/Scripts/CheckPoint.js",
+      "file:///D:/Tower-Run/Tower-Run/assets/Scripts/Coin.ts": "assets/Scripts/Coin.js",
+      "file:///D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.ts": "assets/Scripts/GameManager.js",
+      "file:///D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.ts": "assets/Scripts/MenuUIManager.js",
+      "file:///D:/Tower-Run/Tower-Run/assets/Scripts/Player.ts": "assets/Scripts/Player.js",
+      "file:///D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.ts": "assets/Scripts/PlayerCtrl.js",
+      "file:///D:/Tower-Run/Tower-Run/assets/Scripts/Progress.ts": "assets/Scripts/Progress.js",
+      "file:///D:/Tower-Run/Tower-Run/assets/Scripts/Score.ts": "assets/Scripts/Score.js",
+      "file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.ts": "assets/Scripts/UIManager.js",
+      "file:///D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.ts": "assets/Scripts/UIModel.js"
+    },
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1621866731026,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  }
+}

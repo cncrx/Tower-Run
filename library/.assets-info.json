@@ -1,0 +1,675 @@
+{
+  "D:\\Tower-Run\\Tower-Run\\assets\\Animations.meta": {
+    "time": 1615635104407.4978
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Animations\\coin_rotate.anim.meta": {
+    "time": 1617629567848.2397
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Animations\\idle.fbx.meta": {
+    "time": 1621384534851.6057
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Animations\\run.fbx.meta": {
+    "time": 1621384534709.7407
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Animations\\score_added.anim.meta": {
+    "time": 1617543882122.436
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Materials.meta": {
+    "time": 1615635086880.1003
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Materials\\player_material.mtl.meta": {
+    "time": 1615634924570.6907
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models.meta": {
+    "time": 1615458233298.8977
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\arrow.fbx.meta": {
+    "time": 1621778544607.0266
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\barrel.fbx.meta": {
+    "time": 1621778544682.9602
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\block.fbx.meta": {
+    "time": 1621778544760.263
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\blockDirt.fbx.meta": {
+    "time": 1621778545530.878
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\blockRounded.fbx.meta": {
+    "time": 1621384534877.5815
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\blockSnow.fbx.meta": {
+    "time": 1621778545585.8257
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\blockSnowRounded.fbx.meta": {
+    "time": 1621384534889.5713
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\bridge.fbx.meta": {
+    "time": 1621778544957.5771
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\characterMedium.fbx.meta": {
+    "time": 1621778545325.6765
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\coinGold.fbx.meta": {
+    "time": 1621778545438.9634
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\crate.fbx.meta": {
+    "time": 1621778545634.954
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\mushrooms.fbx.meta": {
+    "time": 1621384535191.1165
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\plant.fbx.meta": {
+    "time": 1615629456008.192
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\rocks.fbx.meta": {
+    "time": 1621384535423.8967
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources.meta": {
+    "time": 1617627546310.6582
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\block.prefab.meta": {
+    "time": 1616855636611.8044
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\bridge_1_row.prefab.meta": {
+    "time": 1615731041708.55
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\coin.prefab.meta": {
+    "time": 1617629405047.1494
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\crate.prefab.meta": {
+    "time": 1615733471909.7412
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\player.prefab.meta": {
+    "time": 1617028647152.2402
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\score.prefab.meta": {
+    "time": 1617626131979.2095
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scenes.meta": {
+    "time": 1615459311223.9565
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scenes\\game.scene.meta": {
+    "time": 1617790881399.0244
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts.meta": {
+    "time": 1615459319350.6367
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\Block.ts.meta": {
+    "time": 1621778823210.7073
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\GameManager.ts.meta": {
+    "time": 1621778823218.698
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\PlayerCtrl.ts.meta": {
+    "time": 1621778823229.6873
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\Score.ts.meta": {
+    "time": 1621778823240.678
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\UIManager.ts.meta": {
+    "time": 1621778823273.647
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Materials\\skaterMaleA.png.meta": {
+    "time": 1621384535253.058
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Animations": {
+    "time": 1617887112497.0923,
+    "uuid": "716424ce-74b9-4fc3-8424-740ed645892d",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models": {
+    "time": 1621778523990.6196,
+    "uuid": "b4751873-89cf-4067-a6c1-a8aa8992fad6",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Animations\\coin_rotate.anim": {
+    "time": 1617629814522.634,
+    "uuid": "5b4f8635-1de5-4c9e-8ecd-1d095092b445",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Animations\\score_added.anim": {
+    "time": 1617544049924.8032,
+    "uuid": "b74812de-2533-43bc-8481-32c2d8dfb3b6",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Animations\\run.fbx": {
+    "time": 1578847217000,
+    "uuid": "aeb98837-dd9a-4dc5-9a1d-5185e93b7433",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Animations\\idle.fbx": {
+    "time": 1572620057055.7756,
+    "uuid": "f48006de-7b93-478a-a5db-e0570c7bad91",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\arrow.fbx": {
+    "time": 1600177986000,
+    "uuid": "e9bef81a-cf25-4150-aaeb-c1c3207b4d2d",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\block.fbx": {
+    "time": 1600177986000,
+    "uuid": "1733c722-bcb7-4e33-96f6-0f5a61f0a53f",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\barrel.fbx": {
+    "time": 1600177986000,
+    "uuid": "7526adb8-b1ea-4dd2-9975-93094934426e",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\blockSnow.fbx": {
+    "time": 1600177990000,
+    "uuid": "37e7fa17-d5e5-4c39-95da-64d9f8ea7593",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\blockSnowRounded.fbx": {
+    "time": 1600177992000,
+    "uuid": "05812d37-1c05-4ecc-8537-4395b4053062",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\blockRounded.fbx": {
+    "time": 1600177989000,
+    "uuid": "fda783f7-5a86-417f-8de0-04de0d7afef6",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\bridge.fbx": {
+    "time": 1600177992000,
+    "uuid": "bda1a354-ca43-4e51-ac7e-d3422b151c76",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\mushrooms.fbx": {
+    "time": 1600177996000,
+    "uuid": "7d897c77-aff7-464d-96a2-1c4bb78694ca",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources": {
+    "time": 1621343344878.146,
+    "uuid": "8ce24273-163a-4127-8431-dd0264a5bc82",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\coinGold.fbx": {
+    "time": 1600177993000,
+    "uuid": "83191e98-a2aa-4e4b-8261-bc78129b6cdd",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\characterMedium.fbx": {
+    "time": 1572618348600.0576,
+    "uuid": "e28e7685-8316-42e6-9250-d929394face3",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\crate.fbx": {
+    "time": 1600177993000,
+    "uuid": "785adebe-c027-4571-af97-9347d8543c0d",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\block.prefab": {
+    "time": 1621866243428.6846,
+    "uuid": "dc05e826-6c80-44db-b7bf-2df1d6d9eab0",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\coin.prefab": {
+    "time": 1618462952439.898,
+    "uuid": "cf3dcda5-e114-47e0-b454-f3d315402ad9",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\bridge_1_row.prefab": {
+    "time": 1615731469476.3765,
+    "uuid": "e103cd37-557b-48d1-81f2-96124373f8c9",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scenes": {
+    "time": 1621333943565.577,
+    "uuid": "aa06cc3b-3cd1-4667-b028-074e9e79a0bc",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\crate.prefab": {
+    "time": 1617974063329.239,
+    "uuid": "16486b83-2cfc-4994-b8bf-d64324651838",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts": {
+    "time": 1621778795596.259,
+    "uuid": "929632d5-6d9a-45f2-9453-1cc9fc4bd1a2",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\Block.ts": {
+    "time": 1619000146059.2432,
+    "uuid": "e0b4966e-1caf-4671-a04b-5dd9a2a94c0e",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\GameManager.ts": {
+    "time": 1621866720179.1528,
+    "uuid": "8d345e0a-038e-4f7e-812d-af79b9e9674f",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\player.prefab": {
+    "time": 1621781700287.132,
+    "uuid": "30b904d6-b01c-434e-9f99-9c65b11a3e41",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\PlayerCtrl.ts": {
+    "time": 1621438382486.5332,
+    "uuid": "3bbaf034-e3c6-49b2-aaa0-fd5bbc389290",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\Score.ts": {
+    "time": 1618976671808.671,
+    "uuid": "9bf8bc9a-9ae4-4271-b6c0-4ca5092d5da3",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\UIManager.ts": {
+    "time": 1619336394485.5537,
+    "uuid": "9ec65d19-836b-43c1-8964-c53d609af71e",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\score.prefab": {
+    "time": 1618281893272.3926,
+    "uuid": "0770a1d3-029c-4924-9625-4885a1262851",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\rocks.fbx": {
+    "time": 1600177997000,
+    "uuid": "e782457e-92e6-438e-a569-fe93ce296daf",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scenes\\scene.scene.meta": {
+    "time": 1617790448442.2815
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Animations\\coin_trigger.anim.meta": {
+    "time": 1617887112506.0803
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Animations\\coin_trigger.anim": {
+    "time": 1617887112476.1104,
+    "uuid": "2dda5428-5199-49f6-9ace-997ed8db302d",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\Coin.ts.meta": {
+    "time": 1621778823215.701
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\Coin.ts": {
+    "time": 1618463852014.0967,
+    "uuid": "912e4d81-d5f0-4039-9f04-38bf72ecc2f6",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\Player.ts.meta": {
+    "time": 1621778823226.6902
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\Player.ts": {
+    "time": 1619001391983.4263,
+    "uuid": "0a20cd8f-43fc-4bcc-abc8-f9429f56a6af",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\crates_1.prefab.meta": {
+    "time": 1618044608595.2668
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\crates_1.prefab": {
+    "time": 1618044608570.598,
+    "uuid": "b89eccb7-15a2-418c-89e5-5e0096586164",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\crates_2.prefab.meta": {
+    "time": 1618044608659.2053
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\crates_2.prefab": {
+    "time": 1618905149807.4265,
+    "uuid": "cf0ad6d5-8e6e-4ec5-a4ce-99395ff300fa",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\crates_3.prefab.meta": {
+    "time": 1618044608738.7202
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\crates_3.prefab": {
+    "time": 1618407671471.8086,
+    "uuid": "9894ceb3-727a-4dd8-9f68-59b24287859e",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\crates_4.prefab.meta": {
+    "time": 1618044608791.67
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\crates_4.prefab": {
+    "time": 1618407675523.9019,
+    "uuid": "88c7eef2-a8e7-40aa-8543-6dc3f863e844",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\crates_5.prefab.meta": {
+    "time": 1618044608846.618
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\crates_5.prefab": {
+    "time": 1618905168859.315,
+    "uuid": "8b53b5f6-2f8c-41f4-9e87-bb360e26748f",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\crates_6.prefab.meta": {
+    "time": 1618044616919.8901
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\crates_6.prefab": {
+    "time": 1618905185704.3018,
+    "uuid": "b0d2e4b3-8fe3-4a6f-a923-58fef0f23bd9",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scenes\\backup.meta": {
+    "time": 1618218502824.3555
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scenes\\backup\\game.scene.meta": {
+    "time": 1617790881399.0244
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scenes\\backup\\gam.scene.meta": {
+    "time": 1618462643080.5854
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scenes\\game.scene": {
+    "time": 1621781852393.4678,
+    "uuid": "6fd70f94-66d0-457b-9d30-9f93e55729ad",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scenes\\menu.scene.meta": {
+    "time": 1618492678088.2256
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scenes\\menu.scene": {
+    "time": 1621866286577.4993,
+    "uuid": "ef26b10a-7408-4cc2-9140-97ea73c8c57b",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scenes\\loading.scene.meta": {
+    "time": 1618492693251.4673
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\Progresss.ts.meta": {
+    "time": 1618494020502.6924
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\pro.ts.meta": {
+    "time": 1618495008372.5723
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\Progress.ts.meta": {
+    "time": 1621778823235.6816
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\Progress.ts": {
+    "time": 1618495705814.03,
+    "uuid": "3b404e61-ed96-48e8-a835-f82c14f5c125",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources.meta": {
+    "time": 1618496930203.422
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources": {
+    "time": 1621778473172.4326,
+    "uuid": "b93fb312-3f82-41c8-8378-9c61f3e99d53",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\buttonLong_grey.png.meta": {
+    "time": 1618496936278.2168
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\buttonLong_grey_pressed.png.meta": {
+    "time": 1618496937083.608
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI.meta": {
+    "time": 1618496943976.344
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI": {
+    "time": 1621778473092.5728,
+    "uuid": "2714fa24-a387-49ba-a8de-c338b8752ab5",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\buttonLong_grey.png.meta": {
+    "time": 1621778478158.9595
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\buttonLong_grey.png": {
+    "time": 1397980703017.3464,
+    "uuid": "e653e446-4323-4575-849a-ee08570fb516",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\buttonLong_grey_pressed.png.meta": {
+    "time": 1621778478128.973
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\buttonLong_grey_pressed.png": {
+    "time": 1397980703022.3506,
+    "uuid": "abdb0e42-7560-4ea5-bc64-30379af1ab8f",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\buttonSquare_grey.png.meta": {
+    "time": 1618497876715.2295
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\buttonSquare_grey_pressed.png.meta": {
+    "time": 1618497886223.16
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\iconCheck_blue.png.meta": {
+    "time": 1621778478178.9412
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\iconCheck_blue.png": {
+    "time": 1397980703054.3806,
+    "uuid": "d2696a9f-c74e-408a-ae5a-3f0eb3cc8204",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\iconCircle_blue.png.meta": {
+    "time": 1618498028979.6753
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\buttonRound_blue.png.meta": {
+    "time": 1621778478174.9434
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\buttonRound_blue.png": {
+    "time": 1397980703040.3674,
+    "uuid": "e5c2f1c5-0d3e-404f-9e20-eca99195e1ba",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\panel_beigeLight.png.meta": {
+    "time": 1621778478191.9272
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\panel_beigeLight.png": {
+    "time": 1397980703011.3406,
+    "uuid": "7712630b-b434-44cf-8a81-81ac45733c9c",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\MenuUIManager.ts.meta": {
+    "time": 1621778823222.6943
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\MenuUIManager.ts": {
+    "time": 1621866594885.9297,
+    "uuid": "2d1a6d7b-44bb-48f2-bae9-2cb4f6879b20",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\PlayerNode.prefab.meta": {
+    "time": 1618582791715.6506
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\PlayerNode.prefab": {
+    "time": 1621866330810.5474,
+    "uuid": "85e1d223-a3b4-498a-9990-656a22aebe21",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\CheckPoint.prefab.meta": {
+    "time": 1618801723570.7146
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\CheckPoint.prefab": {
+    "time": 1618805695539.593,
+    "uuid": "998d1f43-dba4-4882-bfdf-8e94ec77d6bf",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\CheckPoint.ts.meta": {
+    "time": 1621778823213.7024
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\CheckPoint.ts": {
+    "time": 1619001710057.3606,
+    "uuid": "cfd0ec5d-684a-48c7-8f0c-81e982ed20df",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\check_point.prefab.meta": {
+    "time": 1618805654391.543
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\check_point.prefab": {
+    "time": 1618824124784.9548,
+    "uuid": "47f86a5a-2049-46b9-8972-c4abb5a08af5",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scenes\\PlayerNode.prefab.meta": {
+    "time": 1621333894901.3787
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\backup.meta": {
+    "time": 1621341897828.1133
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\backup\\block.prefab.meta": {
+    "time": 1621341897911.0344
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\backup": {
+    "time": 1621341897678.4297,
+    "uuid": "9a1af437-861a-40da-94ab-161e4135339d",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\backup\\block.prefab": {
+    "time": 1621334689085.4734,
+    "uuid": "568f2131-307b-4e5f-aa99-0e00ab9ad9b5",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\block-001.prefab.meta": {
+    "time": 1621343323651.8943
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\UIModelBlock.prefab.meta": {
+    "time": 1621343332742.9146
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\UIModelBlock.prefab": {
+    "time": 1621866307873.7964,
+    "uuid": "f3d6e242-1f69-4fb6-a7ce-642a2d55c33e",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\player-001.prefab.meta": {
+    "time": 1621343337781.007
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\UIModelPlayer.prefab.meta": {
+    "time": 1621343344892.1318
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\resources\\UIModelPlayer.prefab": {
+    "time": 1621781845817.9128,
+    "uuid": "469b2d81-434c-441a-bd20-8f0e1196ad5d",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\UIModel.ts.meta": {
+    "time": 1621778823276.6428
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\UIModel.ts": {
+    "time": 1621757961319.4038,
+    "uuid": "5c5fc581-5f5d-4245-bb68-9d09e8858ab5",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Materials.meta": {
+    "time": 1621778477746.494
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Materials\\player_criminal.mtl.meta": {
+    "time": 1621433705979.668
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Materials\\player_cyborg.mtl.meta": {
+    "time": 1621568233897.44
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Materials\\player_default.mtl.meta": {
+    "time": 1621778477802.4387
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Materials\\player_female.mtl.meta": {
+    "time": 1621568253008.5386
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Skin.meta": {
+    "time": 1621433869075.2964
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Skin\\criminalMaleA.png.meta": {
+    "time": 1621778477913.279
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Skin\\cyborgFemaleA.png.meta": {
+    "time": 1621778477918.2756
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Skin\\skaterFemaleA.png.meta": {
+    "time": 1621778477972.529
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Skin\\skaterMaleA.png.meta": {
+    "time": 1621778477970.532
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\arrowSilver_left.png.meta": {
+    "time": 1621778478065.6284
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\arrowSilver_right.png.meta": {
+    "time": 1621778478068.6262
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Materials": {
+    "time": 1621778474607.2236,
+    "uuid": "4fe9dd6f-606e-4f07-94e0-fbd9d1b7b6f4",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Skin": {
+    "time": 1621778476779.4097,
+    "uuid": "7ec1ec7f-303f-45f8-aad8-e2d1cc707bf3",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Materials\\player_cyborg.mtl": {
+    "time": 1621778477743.4958,
+    "uuid": "05c1417b-eb28-4dc2-bf37-13eec9bf6991",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Materials\\player_default.mtl": {
+    "time": 1621778599868.7185,
+    "uuid": "9fa6cbf5-50d7-4d38-9243-7669a09ad8ec",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Materials\\player_criminal.mtl": {
+    "time": 1621778477742.4966,
+    "uuid": "b13d6e36-ba79-467a-b35c-a2a25618ec59",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Materials\\player_female.mtl": {
+    "time": 1621778477744.4958,
+    "uuid": "492e7d8f-7b82-40ea-a271-1ba7c5c907f1",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Skin\\criminalMaleA.png": {
+    "time": 1579647149000,
+    "uuid": "09bd106c-b35e-4ff8-b7d9-1b6e79e27c1f",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Skin\\cyborgFemaleA.png": {
+    "time": 1579647162000,
+    "uuid": "a4b5702d-e4c5-4847-85bc-69447a4b1601",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Skin\\skaterMaleA.png": {
+    "time": 1579647153000,
+    "uuid": "b4e295d1-281a-44ff-b708-b3d97b8d0364",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\Skin\\skaterFemaleA.png": {
+    "time": 1579647158000,
+    "uuid": "701aba71-c738-4aba-8d6f-21ecef73b06b",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\arrowSilver_left.png": {
+    "time": 1397980703029.357,
+    "uuid": "cd754261-3c1a-4399-8ef5-9b2df289b009",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Sources\\UI\\arrowSilver_right.png": {
+    "time": 1397980703021.3499,
+    "uuid": "a15d5ab9-7fec-4ef3-9a01-94d6b778d985",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\blockMovingLarge.fbx.meta": {
+    "time": 1621778545588.8228
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\blockMovingRed.fbx.meta": {
+    "time": 1621778545583.8274
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\blockDirt.fbx": {
+    "time": 1600177987000,
+    "uuid": "3424d7f1-e5aa-4272-8807-8f98e3cce683",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\blockMovingRed.fbx": {
+    "time": 1600177989000,
+    "uuid": "c0d886ac-04cd-4a65-b0b2-4625b65ad928",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Models\\blockMovingLarge.fbx": {
+    "time": 1600177988000,
+    "uuid": "bd016511-cf4f-45df-bd29-8784d6562796",
+    "missing": false
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\Skins.json.meta": {
+    "time": 1621437960310.9377
+  },
+  "D:\\Tower-Run\\Tower-Run\\assets\\Scripts\\Skins.json": {
+    "time": 1621568387950.13,
+    "uuid": "b0c3e0a5-d11a-47cb-9630-8af3dfbe064b",
+    "missing": false
+  }
+}

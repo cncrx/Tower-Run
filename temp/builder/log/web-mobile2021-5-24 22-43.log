@@ -1,0 +1,636 @@
+2021-5-24 22:43-debug: =================================== Build Task (mobile-tower-run) Start ================================
+2021-5-24 22:43-debug: cocos-service:(onBeforeBuild) start...0%
+2021-5-24 22:43-debug: Start build task, options:{"packages":{"web-mobile":{"orientation":"landscape","polyfills":{"asyncFunctions":true}},"cocos-service":{"configID":"86130f","services":[]}},"name":"Mobile-Tower-Run","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"sourceMaps":false,"replaceSplashScreen":false,"mainBundleCompressionType":"merge_dep","mainBundleIsRemote":false,"mergeStartScene":false,"experimentalEraseModules":false,"compressTexture":true,"packAutoAtlas":true,"startScene":"ef26b10a-7408-4cc2-9140-97ea73c8c57b","scenes":[{"url":"db://assets/Scenes/game.scene","uuid":"6fd70f94-66d0-457b-9d30-9f93e55729ad"},{"url":"db://assets/Scenes/menu.scene","uuid":"ef26b10a-7408-4cc2-9140-97ea73c8c57b"}],"outputName":"mobile-tower-run"}
+2021-5-24 22:43-debug: // ---- cocos-service:(onBeforeBuild) ----
+2021-5-24 22:43-debug: Process: heapTotal 622.59MB heapUsed 594.06MB rss 756.26MB
+2021-5-24 22:43-debug: // ---- cocos-service:(onBeforeBuild) success ----
+2021-5-24 22:43-debug: cocos-service:(onBeforeBuild)3%
+2021-5-24 22:43-debug: Query all assets info in project
+2021-5-24 22:43-debug: BuildAssetLibrary initialized with asset 395!
+2021-5-24 22:43-debug:   Number of all scenes: 2
+2021-5-24 22:43-debug:   Number of all scripts: 11
+2021-5-24 22:43-debug:   Number of other assets: 462
+2021-5-24 22:43-debug: web-mobile:(onAfterInit) start...3%
+2021-5-24 22:43-debug: // ---- web-mobile:(onAfterInit) ----
+2021-5-24 22:43-debug: Process: heapTotal 615.83MB heapUsed 592.06MB rss 749.27MB
+2021-5-24 22:43-debug: // ---- web-mobile:(onAfterInit) success ----
+2021-5-24 22:43-debug: web-mobile:(onAfterInit)5%
+2021-5-24 22:43-debug: 加载刷新项目脚本 start5%
+2021-5-24 22:43-log: // ---- 加载刷新项目脚本 ----
+2021-5-24 22:43-debug: Process: heapTotal 615.83MB heapUsed 592.09MB rss 749.30MB
+2021-5-24 22:43-debug: reload all scripts.
+2021-5-24 22:43-debug: Unregister GameManager
+2021-5-24 22:43-debug: Unregister Coin
+2021-5-24 22:43-debug: Unregister Block
+2021-5-24 22:43-debug: Unregister CheckPoint
+2021-5-24 22:43-debug: Unregister MenuUIManager
+2021-5-24 22:43-debug: Unregister Player
+2021-5-24 22:43-debug: Unregister PlayerCtrl
+2021-5-24 22:43-debug: Unregister Progress
+2021-5-24 22:43-debug: Unregister Score
+2021-5-24 22:43-debug: Unregister UIManager
+2021-5-24 22:43-debug: Unregister UIModel
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/cce/internal/x/prerequisite-imports.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Block.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/cce/internal/x/cc.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/cce/internal/code-quality/cr.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Coin.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Player.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Progress.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Score.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.js'
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/cce/internal/code-quality/cr.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register GameManager
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register Block
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Block.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register CheckPoint
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register Coin
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Coin.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register MenuUIManager
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register Player
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Player.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register PlayerCtrl
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register Progress
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Progress.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register Score
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Score.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register UIManager
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register UIModel
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-5-24 22:43-debug: 加载刷新项目脚本 √8%
+2021-5-24 22:43-debug: 查询 asset bundle start8%
+2021-5-24 22:43-log: // ---- 查询 asset bundle ----
+2021-5-24 22:43-debug: Process: heapTotal 616.08MB heapUsed 592.65MB rss 749.48MB
+2021-5-24 22:43-debug: 查询 asset bundle √11%
+2021-5-24 22:43-debug: 查询使用的资源以及资源包配置 start11%
+2021-5-24 22:43-log: // ---- 查询使用的资源以及资源包配置 ----
+2021-5-24 22:43-debug: Process: heapTotal 616.08MB heapUsed 592.74MB rss 749.67MB
+2021-5-24 22:43-debug: Number of scenes: 2
+2021-5-24 22:43-debug: Number of assets: 85
+2021-5-24 22:43-debug: Number of asset bundle: 2
+2021-5-24 22:43-debug: 查询使用的资源以及资源包配置 √14%
+2021-5-24 22:43-debug: 整理脚本分组与脚本数据 start14%
+2021-5-24 22:43-log: // ---- 整理脚本分组与脚本数据 ----
+2021-5-24 22:43-debug: Process: heapTotal 616.33MB heapUsed 592.76MB rss 749.57MB
+2021-5-24 22:43-debug: sort script group...
+2021-5-24 22:43-debug: 整理脚本分组与脚本数据 √16%
+2021-5-24 22:43-debug: 整理纹理压缩任务 start16%
+2021-5-24 22:43-log: // ---- 整理纹理压缩任务 ----
+2021-5-24 22:43-debug: Process: heapTotal 616.33MB heapUsed 592.83MB rss 749.64MB
+2021-5-24 22:43-debug: Number of image-compress task: 0
+2021-5-24 22:43-debug: 初步划分 json 合并分组 start19%
+2021-5-24 22:43-log: // ---- 初步划分 json 合并分组 ----
+2021-5-24 22:43-debug: 整理纹理压缩任务 √19%
+2021-5-24 22:43-debug: Process: heapTotal 616.33MB heapUsed 592.93MB rss 749.75MB
+2021-5-24 22:43-debug: Number of json group: 11
+2021-5-24 22:43-debug: 初步划分 json 合并分组 √22%
+2021-5-24 22:43-debug: 整理合并压缩 Texture2D 的 json 数据 start22%
+2021-5-24 22:43-log: // ---- 整理合并压缩 Texture2D 的 json 数据 ----
+2021-5-24 22:43-debug: Process: heapTotal 616.33MB heapUsed 592.30MB rss 749.07MB
+2021-5-24 22:43-debug: 整理合并压缩 Texture2D 的 json 数据 √25%
+2021-5-24 22:43-debug:  start25%
+2021-5-24 22:43-log: // ----  ----
+2021-5-24 22:43-debug: Process: heapTotal 616.33MB heapUsed 592.33MB rss 749.10MB
+2021-5-24 22:43-debug: 打包脚本25%
+2021-5-24 22:43-debug: Process: heapTotal 642.58MB heapUsed 604.24MB rss 774.20MB
+2021-5-24 22:43-debug: Copy externalScripts success!
+2021-5-24 22:43-debug: 打包脚本√25%
+2021-5-24 22:43-debug: 构建引擎25%
+2021-5-24 22:43-debug: Process: heapTotal 460.13MB heapUsed 177.79MB rss 375.59MB
+2021-5-24 22:43-debug: Use cache engine: {link(C:\Users\RXCHEN~1\AppData\Local\Temp\CocosCreator\3.1.0\builder\engine\67555c799b72eff0dcdff12a424d950c)}
+2021-5-24 22:43-debug: {"debug":false,"sourceMaps":false,"includeModules":["base","gfx-webgl","gfx-webgl2","3d","2d","ui","particle","physics-ammo","physics-2d-box2d","intersection-2d","primitive","profiler","particle-2d","audio","video","webview","tween","terrain","tiled-map","spine","dragon-bones"],"engineVersion":"3.1.0","platform":"HTML5","md5Map":[],"engineName":"cocos-js","useCache":true,"split":false,"ammoJsWasm":"fallback","assetURLFormat":"runtime-resolved","entry":"D:\\CocosDashboard\\resources\\.editors\\Creator\\3.1.0\\resources\\resources\\3d\\engine"}
+2021-5-24 22:43-debug: 构建引擎√25%
+2021-5-24 22:43-debug:  √32%
+2021-5-24 22:43-debug: 构建自动图集 start32%
+2021-5-24 22:43-log: // ---- 构建自动图集 ----
+2021-5-24 22:43-debug: Process: heapTotal 460.13MB heapUsed 178.99MB rss 378.27MB
+2021-5-24 22:43-debug: 构建自动图集 √38%
+2021-5-24 22:43-debug: 图片拷贝压缩任务 start38%
+2021-5-24 22:43-log: // ---- 图片拷贝压缩任务 ----
+2021-5-24 22:43-debug: 图片拷贝压缩任务 √45%
+2021-5-24 22:43-debug: 将资源拷贝到指定位置 start45%
+2021-5-24 22:43-debug: Process: heapTotal 460.13MB heapUsed 179.02MB rss 378.30MB
+2021-5-24 22:43-log: // ---- 将资源拷贝到指定位置 ----
+2021-5-24 22:43-debug: Process: heapTotal 460.13MB heapUsed 179.04MB rss 378.32MB
+2021-5-24 22:43-debug: Asset Bundle(resources) handle assets: 57
+2021-5-24 22:43-debug: Asset Bundle(main) handle assets: 38
+2021-5-24 22:43-debug: 将资源拷贝到指定位置 √52%
+2021-5-24 22:43-debug: 将分组后的 json 与散文件构建到指定位置 start52%
+2021-5-24 22:43-debug: Process: heapTotal 460.13MB heapUsed 177.33MB rss 379.15MB
+2021-5-24 22:43-log: // ---- 将分组后的 json 与散文件构建到指定位置 ----
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/criminalMaleA.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/skaterFemaleA.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/cyborgFemaleA.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/skaterMaleA.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/block.fbx/block_Material0.mesh)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/block.fbx/dirt.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/block.fbx/grass.material)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/CheckPoint.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/arrow.fbx/arrow.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/arrow.fbx/woodDark.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/arrow.fbx/arrow_Material0.mesh)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/arrow.fbx/wood.material)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/bridge.fbx/bridge_Material0.mesh)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/bridge.fbx/woodDark.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/bridge.fbx/bridge.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/bridge.fbx/wood.material)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Animations/coin_rotate.anim)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/coinGold.fbx/coinGold_Material0.mesh)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/coinGold.fbx/gold.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/coinGold.fbx/wood.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/coin.prefab)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/crate.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/crate.fbx/woodDark.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/crate.fbx/crate_Material0.mesh)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/crate.fbx/wood.material)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/blockMovingLarge.fbx/wood.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/blockMovingRed.fbx/heart.material)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/blockMovingRed.fbx/gold.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/UIModelBlock.prefab)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Materials/player_cyborg.mtl)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Materials/player_female.mtl)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Materials/player_default.mtl)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Animations/run.fbx/Root|Run.animation)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Materials/player_criminal.mtl)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/characterMedium.fbx/UnnamedSkeleton.skeleton)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/characterMedium.fbx/characterMedium.mesh)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Animations/idle.fbx/Root|Idle.animation)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/criminalMaleA.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/skaterFemaleA.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/cyborgFemaleA.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/skaterMaleA.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/score.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/effects/builtin-standard.effect)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/player.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/UIModelPlayer.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/check_point.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/backup/block.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/PlayerNode.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/crates_4.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/crates_5.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/crates_3.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/crates_6.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/crates_1.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/blockMovingLarge.fbx/gold.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/crates_2.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/block.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/bridge_1_row.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_progressbar_bg.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_progressbar.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/panel_beigeLight.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/arrowSilver_right.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonLong_grey_pressed.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/arrowSilver_left.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonRound_blue.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonLong_grey.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Scenes/game.scene)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Animations/score_added.anim)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/panel_beigeLight.png/spriteFrame)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonLong_grey_pressed.png/spriteFrame)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonLong_grey.png/spriteFrame)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_progressbar.png/spriteFrame)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_progressbar_bg.png/spriteFrame)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/arrowSilver_right.png/spriteFrame)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/arrowSilver_left.png/spriteFrame)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonRound_blue.png/spriteFrame)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Scenes/menu.scene)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_progressbar_bg.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_progressbar.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/panel_beigeLight.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/arrowSilver_right.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonLong_grey_pressed.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/arrowSilver_left.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonRound_blue.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonLong_grey.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_renderpipeline/builtin-forward.rpp)})
+2021-5-24 22:43-debug: 将分组后的 json 与散文件构建到指定位置 √58%
+2021-5-24 22:43-debug: 压缩 zip bundle start58%
+2021-5-24 22:43-log: // ---- 压缩 zip bundle ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 178.77MB rss 380.78MB
+2021-5-24 22:43-debug: 压缩 zip bundle √65%
+2021-5-24 22:43-debug: 给所有的资源加上 md5 后缀 start65%
+2021-5-24 22:43-log: // ---- 给所有的资源加上 md5 后缀 ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 178.79MB rss 380.78MB
+2021-5-24 22:43-debug: 给所有的资源加上 md5 后缀 √75%
+2021-5-24 22:43-debug: 初始化 settings 与 config start75%
+2021-5-24 22:43-log: // ---- 初始化 settings 与 config ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 178.81MB rss 380.78MB
+2021-5-24 22:43-debug: 初始化 settings 与 config √76%
+2021-5-24 22:43-debug: tasks.settings.macro 字段未在编辑器多语言内定义
+2021-5-24 22:43-debug: tasks.settings.macro start76%
+2021-5-24 22:43-log: // ---- tasks.settings.macro ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 178.84MB rss 380.78MB
+2021-5-24 22:43-debug: tasks.settings.macro √76%
+2021-5-24 22:43-debug: 使用缓存 settings start76%
+2021-5-24 22:43-log: // ---- 使用缓存 settings ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 178.91MB rss 380.78MB
+2021-5-24 22:43-debug: 使用缓存 settings √77%
+2021-5-24 22:43-debug: custom joint texture layouts start77%
+2021-5-24 22:43-log: // ---- custom joint texture layouts ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 178.97MB rss 380.80MB
+2021-5-24 22:43-debug: custom joint texture layouts √77%
+2021-5-24 22:43-debug: custom joint physics start77%
+2021-5-24 22:43-log: // ---- custom joint physics ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 179.00MB rss 380.80MB
+2021-5-24 22:43-debug: custom joint physics √78%
+2021-5-24 22:43-debug: 填充脚本数据到 settings start78%
+2021-5-24 22:43-log: // ---- 填充脚本数据到 settings ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 179.02MB rss 380.80MB
+2021-5-24 22:43-debug: 填充脚本数据到 settings √78%
+2021-5-24 22:43-debug: 填充场景数据到 settings start78%
+2021-5-24 22:43-log: // ---- 填充场景数据到 settings ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 179.04MB rss 380.80MB
+2021-5-24 22:43-debug: 填充场景数据到 settings √79%
+2021-5-24 22:43-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 start79%
+2021-5-24 22:43-log: // ---- 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 179.06MB rss 380.80MB
+2021-5-24 22:43-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 √79%
+2021-5-24 22:43-debug: 从 suffixMap 生成 md5AssetsMap 到 settings start79%
+2021-5-24 22:43-log: // ---- 从 suffixMap 生成 md5AssetsMap 到 settings ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 179.09MB rss 380.80MB
+2021-5-24 22:43-debug: options.md5Cache is false.
+2021-5-24 22:43-debug: 从 suffixMap 生成 md5AssetsMap 到 settings √80%
+2021-5-24 22:43-debug: web-mobile:(onBeforeCompressSettings) start...80%
+2021-5-24 22:43-debug: // ---- web-mobile:(onBeforeCompressSettings) ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 179.12MB rss 380.80MB
+2021-5-24 22:43-debug: // ---- web-mobile:(onBeforeCompressSettings) success ----
+2021-5-24 22:43-debug: web-mobile:(onBeforeCompressSettings)82%
+2021-5-24 22:43-debug: cocos-service:(onBeforeCompressSettings) start...82%
+2021-5-24 22:43-debug: // ---- cocos-service:(onBeforeCompressSettings) ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 179.14MB rss 380.80MB
+2021-5-24 22:43-debug: // ---- cocos-service:(onBeforeCompressSettings) success ----
+2021-5-24 22:43-debug: cocos-service:(onBeforeCompressSettings)85%
+2021-5-24 22:43-debug: 压缩 config.json 与 settings.js start85%
+2021-5-24 22:43-log: // ---- 压缩 config.json 与 settings.js ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 179.24MB rss 380.80MB
+2021-5-24 22:43-debug: 压缩 config.json 与 settings.js √86%
+2021-5-24 22:43-debug: 保存 config.json start86%
+2021-5-24 22:43-log: // ---- 保存 config.json ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 179.34MB rss 380.80MB
+2021-5-24 22:43-debug: 保存 config.json √87%
+2021-5-24 22:43-log: // ---- 保存 settings.json ----
+2021-5-24 22:43-debug: 保存 settings.json start87%
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 179.39MB rss 380.80MB
+2021-5-24 22:43-debug: 保存 settings.json √89%
+2021-5-24 22:43-debug: 整理静态模板文件 start89%
+2021-5-24 22:43-log: // ---- 整理静态模板文件 ----
+2021-5-24 22:43-debug: Process: heapTotal 460.27MB heapUsed 179.52MB rss 380.80MB
+2021-5-24 22:43-debug: 整理静态模板文件 √90%
+2021-5-24 22:43-debug: cocos-service:(onAfterCompressSettings) start...90%
+2021-5-24 22:43-debug: // ---- cocos-service:(onAfterCompressSettings) ----
+2021-5-24 22:43-debug: Process: heapTotal 460.13MB heapUsed 179.62MB rss 380.43MB
+2021-5-24 22:43-debug: // ---- cocos-service:(onAfterCompressSettings) success ----
+2021-5-24 22:43-debug: cocos-service:(onAfterCompressSettings)92%
+2021-5-24 22:43-debug: web-mobile:(onAfterBuild) start...92%
+2021-5-24 22:43-debug: // ---- web-mobile:(onAfterBuild) ----
+2021-5-24 22:43-debug: // ---- web-mobile:(onAfterBuild) success ----
+2021-5-24 22:43-debug: Process: heapTotal 460.13MB heapUsed 180.33MB rss 380.43MB
+2021-5-24 22:43-debug: web-mobile:(onAfterBuild)95%
+2021-5-24 22:43-debug: cocos-service:(onAfterBuild) start...95%
+2021-5-24 22:43-debug: // ---- cocos-service:(onAfterBuild) ----
+2021-5-24 22:43-debug: Process: heapTotal 460.13MB heapUsed 179.35MB rss 380.66MB
+2021-5-24 22:43-debug: // ---- cocos-service:(onAfterBuild) success ----
+2021-5-24 22:43-debug: cocos-service:(onAfterBuild)97%
+2021-5-24 22:43-debug: ================================ Build Task (mobile-tower-run) Finished ===============================
+2021-5-24 22:43-debug: =================================== Build Task (mobile-tower-run) Start ================================
+2021-5-24 22:43-debug: Start build task, options:{"packages":{"web-mobile":{"orientation":"auto","polyfills":{"asyncFunctions":true}},"cocos-service":{"configID":"86130f","services":[]}},"name":"Mobile-Tower-Run","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"sourceMaps":false,"replaceSplashScreen":false,"mainBundleCompressionType":"merge_dep","mainBundleIsRemote":false,"mergeStartScene":false,"experimentalEraseModules":false,"compressTexture":true,"packAutoAtlas":true,"startScene":"ef26b10a-7408-4cc2-9140-97ea73c8c57b","scenes":[{"url":"db://assets/Scenes/game.scene","uuid":"6fd70f94-66d0-457b-9d30-9f93e55729ad"},{"url":"db://assets/Scenes/menu.scene","uuid":"ef26b10a-7408-4cc2-9140-97ea73c8c57b"}],"outputName":"mobile-tower-run"}
+2021-5-24 22:43-debug: cocos-service:(onBeforeBuild) start...0%
+2021-5-24 22:43-debug: // ---- cocos-service:(onBeforeBuild) ----
+2021-5-24 22:43-debug: Process: heapTotal 460.13MB heapUsed 179.47MB rss 378.42MB
+2021-5-24 22:43-debug: // ---- cocos-service:(onBeforeBuild) success ----
+2021-5-24 22:43-debug: cocos-service:(onBeforeBuild)3%
+2021-5-24 22:43-debug: Query all assets info in project
+2021-5-24 22:43-debug: BuildAssetLibrary initialized with asset 395!
+2021-5-24 22:43-debug:   Number of all scenes: 2
+2021-5-24 22:43-debug:   Number of all scripts: 11
+2021-5-24 22:43-debug: web-mobile:(onAfterInit) start...3%
+2021-5-24 22:43-debug:   Number of other assets: 462
+2021-5-24 22:43-debug: // ---- web-mobile:(onAfterInit) ----
+2021-5-24 22:43-debug: Process: heapTotal 460.37MB heapUsed 180.69MB rss 378.66MB
+2021-5-24 22:43-debug: // ---- web-mobile:(onAfterInit) success ----
+2021-5-24 22:43-debug: web-mobile:(onAfterInit)5%
+2021-5-24 22:43-debug: 加载刷新项目脚本 start5%
+2021-5-24 22:43-log: // ---- 加载刷新项目脚本 ----
+2021-5-24 22:43-debug: Process: heapTotal 454.12MB heapUsed 179.02MB rss 372.71MB
+2021-5-24 22:43-debug: reload all scripts.
+2021-5-24 22:43-debug: Unregister GameManager
+2021-5-24 22:43-debug: Unregister Block
+2021-5-24 22:43-debug: Unregister CheckPoint
+2021-5-24 22:43-debug: Unregister Coin
+2021-5-24 22:43-debug: Unregister MenuUIManager
+2021-5-24 22:43-debug: Unregister Player
+2021-5-24 22:43-debug: Unregister PlayerCtrl
+2021-5-24 22:43-debug: Unregister Progress
+2021-5-24 22:43-debug: Unregister Score
+2021-5-24 22:43-debug: Unregister UIManager
+2021-5-24 22:43-debug: Unregister UIModel
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/cce/internal/x/prerequisite-imports.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Block.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/cce/internal/code-quality/cr.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/cce/internal/x/cc.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Player.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Coin.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Progress.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Score.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.js'
+2021-5-24 22:43-debug: Invalidating 'pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.js'
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/cce/internal/code-quality/cr.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register GameManager
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/GameManager.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register Block
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Block.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register CheckPoint
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/CheckPoint.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register Coin
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Coin.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register MenuUIManager
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/MenuUIManager.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register Player
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Player.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register PlayerCtrl
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/PlayerCtrl.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register Progress
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Progress.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register Score
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/Score.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register UIManager
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/UIManager.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Register UIModel
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/file/D:/Tower-Run/Tower-Run/assets/Scripts/UIModel.js" loaded.
+2021-5-24 22:43-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2021-5-24 22:43-debug: 加载刷新项目脚本 √8%
+2021-5-24 22:43-debug: 查询 asset bundle start8%
+2021-5-24 22:43-log: // ---- 查询 asset bundle ----
+2021-5-24 22:43-debug: Process: heapTotal 453.37MB heapUsed 179.14MB rss 372.31MB
+2021-5-24 22:43-debug: 查询 asset bundle √11%
+2021-5-24 22:43-debug: 查询使用的资源以及资源包配置 start11%
+2021-5-24 22:43-log: // ---- 查询使用的资源以及资源包配置 ----
+2021-5-24 22:43-debug: Process: heapTotal 453.37MB heapUsed 179.24MB rss 372.41MB
+2021-5-24 22:43-debug: Number of scenes: 2
+2021-5-24 22:43-debug: Number of assets: 85
+2021-5-24 22:43-debug: 查询使用的资源以及资源包配置 √14%
+2021-5-24 22:43-debug: Number of asset bundle: 2
+2021-5-24 22:43-log: // ---- 整理脚本分组与脚本数据 ----
+2021-5-24 22:43-debug: Process: heapTotal 453.37MB heapUsed 178.97MB rss 372.08MB
+2021-5-24 22:43-debug: 整理脚本分组与脚本数据 start14%
+2021-5-24 22:43-debug: sort script group...
+2021-5-24 22:43-debug: 整理脚本分组与脚本数据 √16%
+2021-5-24 22:43-debug: 整理纹理压缩任务 start16%
+2021-5-24 22:43-log: // ---- 整理纹理压缩任务 ----
+2021-5-24 22:43-debug: Process: heapTotal 453.37MB heapUsed 179.04MB rss 372.15MB
+2021-5-24 22:43-debug: Number of image-compress task: 0
+2021-5-24 22:43-debug: 整理纹理压缩任务 √19%
+2021-5-24 22:43-debug: 初步划分 json 合并分组 start19%
+2021-5-24 22:43-log: // ---- 初步划分 json 合并分组 ----
+2021-5-24 22:43-debug: Process: heapTotal 453.37MB heapUsed 179.15MB rss 372.25MB
+2021-5-24 22:43-debug: Number of json group: 11
+2021-5-24 22:43-debug: 初步划分 json 合并分组 √22%
+2021-5-24 22:43-debug: 整理合并压缩 Texture2D 的 json 数据 start22%
+2021-5-24 22:43-debug: Process: heapTotal 453.37MB heapUsed 179.37MB rss 372.48MB
+2021-5-24 22:43-log: // ---- 整理合并压缩 Texture2D 的 json 数据 ----
+2021-5-24 22:43-debug: 整理合并压缩 Texture2D 的 json 数据 √25%
+2021-5-24 22:43-debug:  start25%
+2021-5-24 22:43-log: // ----  ----
+2021-5-24 22:43-debug: Process: heapTotal 453.37MB heapUsed 179.40MB rss 372.51MB
+2021-5-24 22:43-debug: 打包脚本25%
+2021-5-24 22:43-debug: Process: heapTotal 468.62MB heapUsed 190.08MB rss 393.38MB
+2021-5-24 22:43-debug: Copy externalScripts success!
+2021-5-24 22:43-debug: 打包脚本√25%
+2021-5-24 22:43-debug: 构建引擎25%
+2021-5-24 22:43-debug: Process: heapTotal 215.63MB heapUsed 188.41MB rss 344.50MB
+2021-5-24 22:43-debug: Use cache engine: {link(C:\Users\RXCHEN~1\AppData\Local\Temp\CocosCreator\3.1.0\builder\engine\67555c799b72eff0dcdff12a424d950c)}
+2021-5-24 22:43-debug: {"debug":false,"sourceMaps":false,"includeModules":["base","gfx-webgl","gfx-webgl2","3d","2d","ui","particle","physics-ammo","physics-2d-box2d","intersection-2d","primitive","profiler","particle-2d","audio","video","webview","tween","terrain","tiled-map","spine","dragon-bones"],"engineVersion":"3.1.0","platform":"HTML5","md5Map":[],"engineName":"cocos-js","useCache":true,"split":false,"ammoJsWasm":"fallback","assetURLFormat":"runtime-resolved","entry":"D:\\CocosDashboard\\resources\\.editors\\Creator\\3.1.0\\resources\\resources\\3d\\engine"}
+2021-5-24 22:43-debug: 构建引擎√25%
+2021-5-24 22:43-debug:  √32%
+2021-5-24 22:43-debug: 构建自动图集 start32%
+2021-5-24 22:43-log: // ---- 构建自动图集 ----
+2021-5-24 22:43-debug: Process: heapTotal 215.63MB heapUsed 188.12MB rss 345.44MB
+2021-5-24 22:43-debug: 构建自动图集 √38%
+2021-5-24 22:43-debug: 图片拷贝压缩任务 start38%
+2021-5-24 22:43-log: // ---- 图片拷贝压缩任务 ----
+2021-5-24 22:43-debug: Process: heapTotal 215.63MB heapUsed 188.16MB rss 345.44MB
+2021-5-24 22:43-debug: 图片拷贝压缩任务 √45%
+2021-5-24 22:43-debug: 将资源拷贝到指定位置 start45%
+2021-5-24 22:43-log: // ---- 将资源拷贝到指定位置 ----
+2021-5-24 22:43-debug: Process: heapTotal 215.63MB heapUsed 188.18MB rss 345.44MB
+2021-5-24 22:43-debug: Asset Bundle(resources) handle assets: 57
+2021-5-24 22:43-debug: Asset Bundle(main) handle assets: 38
+2021-5-24 22:43-debug: 将资源拷贝到指定位置 √52%
+2021-5-24 22:43-debug: 将分组后的 json 与散文件构建到指定位置 start52%
+2021-5-24 22:43-log: // ---- 将分组后的 json 与散文件构建到指定位置 ----
+2021-5-24 22:43-debug: Process: heapTotal 215.63MB heapUsed 188.99MB rss 345.45MB
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/criminalMaleA.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/skaterFemaleA.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/cyborgFemaleA.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/skaterMaleA.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/block.fbx/block_Material0.mesh)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/block.fbx/dirt.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/block.fbx/grass.material)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/CheckPoint.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/arrow.fbx/arrow.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/arrow.fbx/woodDark.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/arrow.fbx/arrow_Material0.mesh)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/arrow.fbx/wood.material)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/bridge.fbx/bridge_Material0.mesh)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/bridge.fbx/woodDark.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/bridge.fbx/bridge.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/bridge.fbx/wood.material)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Animations/coin_rotate.anim)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/coinGold.fbx/coinGold_Material0.mesh)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/coinGold.fbx/gold.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/coinGold.fbx/wood.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/coin.prefab)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/crate.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/crate.fbx/woodDark.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/crate.fbx/crate_Material0.mesh)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/crate.fbx/wood.material)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/blockMovingLarge.fbx/wood.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/blockMovingRed.fbx/heart.material)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/blockMovingRed.fbx/gold.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/UIModelBlock.prefab)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Materials/player_cyborg.mtl)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Materials/player_female.mtl)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Materials/player_default.mtl)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Animations/run.fbx/Root|Run.animation)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Materials/player_criminal.mtl)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/characterMedium.fbx/UnnamedSkeleton.skeleton)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/characterMedium.fbx/characterMedium.mesh)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Animations/idle.fbx/Root|Idle.animation)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/criminalMaleA.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/skaterFemaleA.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/cyborgFemaleA.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/Skin/skaterMaleA.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/score.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/effects/builtin-standard.effect)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/player.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/UIModelPlayer.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/check_point.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/backup/block.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/PlayerNode.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/crates_4.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/crates_5.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/crates_3.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/crates_6.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/crates_1.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Models/blockMovingLarge.fbx/gold.material)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/crates_2.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/block.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/resources/bridge_1_row.prefab)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_progressbar_bg.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_progressbar.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/panel_beigeLight.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonLong_grey_pressed.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/arrowSilver_right.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/arrowSilver_left.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonRound_blue.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonLong_grey.png)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Scenes/game.scene)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Animations/score_added.anim)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/panel_beigeLight.png/spriteFrame)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonLong_grey_pressed.png/spriteFrame)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonLong_grey.png/spriteFrame)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_progressbar.png/spriteFrame)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_progressbar_bg.png/spriteFrame)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/arrowSilver_right.png/spriteFrame)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/arrowSilver_left.png/spriteFrame)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonRound_blue.png/spriteFrame)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Scenes/menu.scene)})
+2021-5-24 22:43-debug: Json group(build-task/json) compile success，json number: 6
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_progressbar_bg.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_progressbar.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/panel_beigeLight.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonLong_grey_pressed.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/arrowSilver_right.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/arrowSilver_left.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonRound_blue.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Sources/UI/buttonLong_grey.png/texture)})
+2021-5-24 22:43-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_renderpipeline/builtin-forward.rpp)})
+2021-5-24 22:43-debug: 将分组后的 json 与散文件构建到指定位置 √58%
+2021-5-24 22:43-debug: 压缩 zip bundle start58%
+2021-5-24 22:43-log: // ---- 压缩 zip bundle ----
+2021-5-24 22:43-debug: Process: heapTotal 195.02MB heapUsed 168.54MB rss 320.42MB
+2021-5-24 22:43-debug: 压缩 zip bundle √65%
+2021-5-24 22:43-debug: 给所有的资源加上 md5 后缀 start65%
+2021-5-24 22:43-log: // ---- 给所有的资源加上 md5 后缀 ----
+2021-5-24 22:43-debug: Process: heapTotal 195.02MB heapUsed 168.56MB rss 320.44MB
+2021-5-24 22:43-debug: 给所有的资源加上 md5 后缀 √75%
+2021-5-24 22:43-debug: 初始化 settings 与 config start75%
+2021-5-24 22:43-log: // ---- 初始化 settings 与 config ----
+2021-5-24 22:43-debug: Process: heapTotal 195.02MB heapUsed 168.58MB rss 320.46MB
+2021-5-24 22:43-debug: 初始化 settings 与 config √76%
+2021-5-24 22:43-debug: tasks.settings.macro 字段未在编辑器多语言内定义
+2021-5-24 22:43-debug: tasks.settings.macro start76%
+2021-5-24 22:43-log: // ---- tasks.settings.macro ----
+2021-5-24 22:43-debug: Process: heapTotal 195.02MB heapUsed 168.61MB rss 320.49MB
+2021-5-24 22:43-debug: tasks.settings.macro √76%
+2021-5-24 22:43-debug: 使用缓存 settings start76%
+2021-5-24 22:43-log: // ---- 使用缓存 settings ----
+2021-5-24 22:43-debug: Process: heapTotal 195.02MB heapUsed 168.69MB rss 320.56MB
+2021-5-24 22:43-debug: 使用缓存 settings √77%
+2021-5-24 22:43-debug: custom joint texture layouts start77%
+2021-5-24 22:43-log: // ---- custom joint texture layouts ----
+2021-5-24 22:43-debug: Process: heapTotal 195.02MB heapUsed 168.75MB rss 320.66MB
+2021-5-24 22:43-debug: custom joint texture layouts √77%
+2021-5-24 22:43-debug: custom joint physics start77%
+2021-5-24 22:43-log: // ---- custom joint physics ----
+2021-5-24 22:43-debug: Process: heapTotal 194.88MB heapUsed 167.33MB rss 320.02MB
+2021-5-24 22:43-debug: custom joint physics √78%
+2021-5-24 22:43-debug: 填充脚本数据到 settings start78%
+2021-5-24 22:43-log: // ---- 填充脚本数据到 settings ----
+2021-5-24 22:43-debug: Process: heapTotal 194.88MB heapUsed 167.35MB rss 320.02MB
+2021-5-24 22:43-debug: 填充脚本数据到 settings √78%
+2021-5-24 22:43-debug: 填充场景数据到 settings start78%
+2021-5-24 22:43-log: // ---- 填充场景数据到 settings ----
+2021-5-24 22:43-debug: Process: heapTotal 194.88MB heapUsed 167.37MB rss 320.02MB
+2021-5-24 22:43-debug: 填充场景数据到 settings √79%
+2021-5-24 22:43-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 start79%
+2021-5-24 22:43-log: // ---- 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 ----
+2021-5-24 22:43-debug: Process: heapTotal 194.88MB heapUsed 167.39MB rss 320.02MB
+2021-5-24 22:43-debug: 整理 assets 分组，生成 packedAssets 以及 rawAssets 数据 √79%
+2021-5-24 22:43-debug: 从 suffixMap 生成 md5AssetsMap 到 settings start79%
+2021-5-24 22:43-log: // ---- 从 suffixMap 生成 md5AssetsMap 到 settings ----
+2021-5-24 22:43-debug: Process: heapTotal 194.88MB heapUsed 167.42MB rss 320.02MB
+2021-5-24 22:43-debug: options.md5Cache is false.
+2021-5-24 22:43-debug: 从 suffixMap 生成 md5AssetsMap 到 settings √80%
+2021-5-24 22:43-debug: web-mobile:(onBeforeCompressSettings) start...80%
+2021-5-24 22:43-debug: // ---- web-mobile:(onBeforeCompressSettings) ----
+2021-5-24 22:43-debug: Process: heapTotal 194.88MB heapUsed 167.44MB rss 320.02MB
+2021-5-24 22:43-debug: // ---- web-mobile:(onBeforeCompressSettings) success ----
+2021-5-24 22:43-debug: web-mobile:(onBeforeCompressSettings)82%
+2021-5-24 22:43-debug: cocos-service:(onBeforeCompressSettings) start...82%
+2021-5-24 22:43-debug: // ---- cocos-service:(onBeforeCompressSettings) ----
+2021-5-24 22:43-debug: Process: heapTotal 194.88MB heapUsed 167.47MB rss 320.02MB
+2021-5-24 22:43-debug: // ---- cocos-service:(onBeforeCompressSettings) success ----
+2021-5-24 22:43-debug: cocos-service:(onBeforeCompressSettings)85%
+2021-5-24 22:43-debug: 压缩 config.json 与 settings.js start85%
+2021-5-24 22:43-log: // ---- 压缩 config.json 与 settings.js ----
+2021-5-24 22:43-debug: Process: heapTotal 194.88MB heapUsed 167.59MB rss 320.03MB
+2021-5-24 22:43-debug: 压缩 config.json 与 settings.js √86%
+2021-5-24 22:43-debug: Process: heapTotal 194.88MB heapUsed 167.70MB rss 320.03MB
+2021-5-24 22:43-debug: 保存 config.json start86%
+2021-5-24 22:43-log: // ---- 保存 config.json ----
+2021-5-24 22:43-debug: 保存 config.json √87%
+2021-5-24 22:43-debug: 保存 settings.json start87%
+2021-5-24 22:43-log: // ---- 保存 settings.json ----
+2021-5-24 22:43-debug: Process: heapTotal 194.88MB heapUsed 167.74MB rss 320.03MB
+2021-5-24 22:43-debug: 保存 settings.json √89%
+2021-5-24 22:43-debug: 整理静态模板文件 start89%
+2021-5-24 22:43-log: // ---- 整理静态模板文件 ----
+2021-5-24 22:43-debug: Process: heapTotal 194.88MB heapUsed 167.87MB rss 320.03MB
+2021-5-24 22:43-debug: 整理静态模板文件 √90%
+2021-5-24 22:43-debug: cocos-service:(onAfterCompressSettings) start...90%
+2021-5-24 22:43-debug: // ---- cocos-service:(onAfterCompressSettings) ----
+2021-5-24 22:43-debug: Process: heapTotal 194.88MB heapUsed 169.69MB rss 323.33MB
+2021-5-24 22:43-debug: // ---- cocos-service:(onAfterCompressSettings) success ----
+2021-5-24 22:43-debug: cocos-service:(onAfterCompressSettings)92%
+2021-5-24 22:43-debug: // ---- web-mobile:(onAfterBuild) ----
+2021-5-24 22:43-debug: web-mobile:(onAfterBuild) start...92%
+2021-5-24 22:43-debug: Process: heapTotal 194.88MB heapUsed 169.04MB rss 323.38MB
+2021-5-24 22:43-debug: // ---- web-mobile:(onAfterBuild) success ----
+2021-5-24 22:43-debug: web-mobile:(onAfterBuild)95%
+2021-5-24 22:43-debug: cocos-service:(onAfterBuild) start...95%
+2021-5-24 22:43-debug: // ---- cocos-service:(onAfterBuild) ----
+2021-5-24 22:43-debug: Process: heapTotal 194.88MB heapUsed 169.59MB rss 323.45MB
+2021-5-24 22:43-debug: // ---- cocos-service:(onAfterBuild) success ----
+2021-5-24 22:43-debug: cocos-service:(onAfterBuild)97%
+2021-5-24 22:43-debug: ================================ Build Task (mobile-tower-run) Finished ===============================

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttonLong_grey_pressed",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 190,
+      "height": 45
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 190,
+      "height": 45
+    },
+    "rotated": false,
+    "capInsets": [
+      15,
+      15,
+      15,
+      15
+    ],
+    "texture": "abdb0e42-7560-4ea5-bc64-30379af1ab8f@6c48a",
+    "packable": true
+  }
+}

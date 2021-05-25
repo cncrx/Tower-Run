@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "Skins",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "player_skins": [
+      {
+        "name": "default",
+        "mtl_path": "player_default"
+      },
+      {
+        "name": "criminal",
+        "mtl_path": "player_criminal"
+      },
+      {
+        "name": "cyborg",
+        "mtl_path": "player_cyborg"
+      },
+      {
+        "name": "doctor",
+        "mtl_path": "player_doctor"
+      }
+    ],
+    "block_skins": [
+      {
+        "name": "default",
+        "mtl_path": "player_default"
+      },
+      {
+        "name": "criminal",
+        "mtl_path": "player_criminal"
+      },
+      {
+        "name": "cyborg",
+        "mtl_path": "player_cyborg"
+      },
+      {
+        "name": "doctor",
+        "mtl_path": "player_doctor"
+      }
+    ]
+  }
+}
